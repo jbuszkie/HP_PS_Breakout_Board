@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name eec)(type Legacy)(uri W:/Busky_boards/KiCAD_Libraries/eec.lib)(options "")(descr ""))
+  (lib (name Busky_KiCAD_Lib)(type Legacy)(uri W:/Busky_boards/KiCAD_Libraries/Busky_KiCAD_Lib.lib)(options "")(descr ""))
+  (lib (name HP_power_supply_breakout-cache)(type Legacy)(uri ${KIPRJMOD}/HP_power_supply_breakout-cache.lib)(options "")(descr ""))
+  (lib (name jb_power)(type Legacy)(uri ${KIPRJMOD}/jb_power.lib)(options "")(descr ""))
+  (lib (name Sparkfun_switches)(type Legacy)(uri W:/Busky_boards/KiCAD_Libraries/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Switches.lib)(options "")(descr ""))
+  (lib (name XT60)(type Legacy)(uri W:/Busky_boards/KiCAD_Libraries/XT60-M/XT60-M.lib)(options "")(descr ""))
+)
